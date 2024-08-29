@@ -26,6 +26,7 @@ export default withMT({
         'primary-700': '#75b6ff',
         'primary-hover':"#1877f2",
         'primary-600': '#0661f4',
+        'yellow-300':"#fde68a",
         'secondary-500': '#FFB620',
         'off-white': '#D0DFFF',
         'red': '#FF5A5A',
